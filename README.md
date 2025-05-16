@@ -22,7 +22,7 @@ Feel free to reach out via email: *guangjin.pan@chalmers.se*
 ### 1. 📶 LAM–Based Wireless Channel foundation model 
 
 | Title | Authors | Venue | Year | Link | code |
-|-------|---------|-------|------|------|
+|-------|---------|-------|------|------|------|
 | Large Wireless Localization Model (LWLM): A Foundation Model for Positioning in 6G Networks | Guangjin Pan | arXiv | 2025 | [PDF](https://arxiv.org/abs/2505.10134) | [code](https://github.com/guangjinpan/LWLM)|
 | SpectrumFM: A Foundation Model for Intelligent Spectrum Management | Fuhui Zhou| arXiv | 2025 | [PDF](https://arxiv.org/abs/2505.06256) | [code](https://github.com/ChunyuLiu188/SpectrumFM)|
 | Large Wireless Model (LWM): A Foundation Model for Wireless Channels | Sadjad Alikhani et al. | arXiv | 2024 | [PDF](https://arxiv.org/abs/2411.08872) | [code](https://huggingface.co/wi-lab)|
