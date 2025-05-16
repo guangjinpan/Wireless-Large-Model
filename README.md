@@ -6,9 +6,8 @@ Papers related to **wireless large AI models (LAMs)** and wireless foundation mo
 Stay tuned and feel free to ⭐ star this repo to follow the latest progress.
 
 🤝 **Open to collaboration and discussion!**
-
-> I'm open to discussions and potential collaborations on LAM research, especially in the areas of communication, sensing, and semantic communication.  
-> 📬 Feel free to reach out via email: *guangjin.pan@chalmers.se*
+I'm open to discussions and potential collaborations on LAM research, especially in the areas of communication, sensing, and semantic communication.  
+Feel free to reach out via email: *guangjin.pan@chalmers.se*
 
 # 📡 Wireless Large AI Models Paper List
 
