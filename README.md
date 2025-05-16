@@ -10,7 +10,7 @@ Stay tuned and feel free to ⭐ star this repo to follow the latest progress.
 🤝 **Open to collaboration and discussion!**
 
 I'm open to discussions and potential collaborations on LAM-based wireless research.  
-Feel free to reach out via email: *guangjin.pan@chalmers.se*
+Feel free to reach out via email: *guangjin.pan@chalmers.se*.
 You can also find more information on my homepage: [HOMEPAGE](https://guangjinpan.github.io/)
 
 
