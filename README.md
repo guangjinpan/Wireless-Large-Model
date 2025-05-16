@@ -2,9 +2,11 @@
 Papers related to "wireless large AI models (LAMs)" and wireless foundation models.
 
 📌 *This list is continuously updated.*
+
 Stay tuned and feel free to ⭐ star this repo to follow the latest progress.
 
 🤝 *Open to collaboration and discussion!*
+
 If you're interested in large model research, feel free to reach out for academic discussion or potential collaboration.
 
 # 📡 Wireless Large AI Models Paper List
