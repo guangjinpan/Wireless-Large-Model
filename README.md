@@ -26,12 +26,11 @@ Feel free to reach out via email: *guangjin.pan@chalmers.se*
 ---
 
 ### 2. 🧠 LAM–Driven Network Optimization  
-关注利用大模型进行网络资源分配、调度、功控、智能决策等方面的优化。
 
 | Title | Authors | Venue | Year | Link |
 |-------|---------|-------|------|------|
-| Graph LLMs for Network Control | Wang et al. | INFOCOM | 2025 | [PDF](https://arxiv.org/abs/xxxx) |
-| Policy Tuning with LLMs for 5G | Chen et al. | NeurIPS | 2023 | [PDF](https://arxiv.org/abs/xxxx) |
+| *More papers coming soon. Stay tuned!* | xxx et al. | INFOCOM | 2025 | [PDF](https://arxiv.org/abs/xxxx) |
+
 
 ---
 
@@ -39,19 +38,18 @@ Feel free to reach out via email: *guangjin.pan@chalmers.se*
 
 | Title | Authors | Venue | Year | Link |
 |-------|---------|-------|------|------|
-| SemCom-GPT: LLMs for Semantic Transmission | Li et al. | arXiv | 2024 | [PDF](https://arxiv.org/abs/xxxx) |
-| End-to-End Semantic Communication with LLMs | Zhao et al. | ICASSP | 2023 | [PDF](https://arxiv.org/abs/xxxx) |
+| *More papers coming soon. Stay tuned!* | xxx et al. | INFOCOM | 2025 | [PDF](https://arxiv.org/abs/xxxx) |
 
 ---
 
 ## ✨ Contributing
 
 Welcome to contribute!  
-Please follow the format:  
-`| Title | Authors | Venue | Year | Link |`  
-Open a pull request or submit an issue if you want to add papers.
+📩 If you have any paper recommendations, feel free to email me or submit an issue.
+Please follow the format:
 
----
+`| Title | Authors | Venue | Year | Link |`  
+
 
 ## 📄 License
 
