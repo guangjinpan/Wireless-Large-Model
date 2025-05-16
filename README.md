@@ -20,8 +20,8 @@ Feel free to reach out via email: *guangjin.pan@chalmers.se*
 
 | Title | Authors | Venue | Year | Link |
 |-------|---------|-------|------|------|
-| DeepMIMO-LLM: Large Language Models for Channel Modeling | Liu et al. | arXiv | 2024 | [PDF](https://arxiv.org/abs/xxxx) |
-| DiffChannel: Diffusion Models for Wireless Channels | Zhang et al. | ICC | 2024 | [PDF](https://arxiv.org/abs/xxxx) |
+| Large Wireless Model (LWM): A Foundation Model for Wireless Channels | Sadjad Alikhani et al. | arXiv | 2024 | [PDF](https://arxiv.org/abs/2411.08872) |
+| WiFo: Wireless Foundation Model for Channel Prediction | Boxun Liu et al. | arXiv | 2024 | [PDF](https://arxiv.org/abs/2412.08908) |
 
 ---
 
