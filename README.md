@@ -1,6 +1,6 @@
 # Wireless-Large-Model
-Papers related to **wireless large AI models (LAMs)** and wireless foundation models. Note: This paper list focuses more on **technical implementations and methodologies**.  
-As a result, magazine or high-level overview articles are not prioritized in the initial phase of the list.
+Papers related to **wireless large AI models (LAMs)** and wireless foundation models. 
+Note: This paper list focuses more on **technical implementations and methodologies**. As a result, magazine or high-level overview articles are not prioritized in the initial phase of the list.
 
 📌 **This list is continuously updated.**
 
