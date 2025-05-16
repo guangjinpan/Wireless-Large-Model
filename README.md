@@ -9,7 +9,7 @@ Stay tuned and feel free to ⭐ star this repo to follow the latest progress.
 
 🤝 **Open to collaboration and discussion!**
 
-I'm open to discussions and potential collaborations on LAM-based wireless research, especially in the areas of communication, sensing, and semantic communication.  
+I'm open to discussions and potential collaborations on LAM-based wireless research.  
 Feel free to reach out via email: *guangjin.pan@chalmers.se*
 
 
