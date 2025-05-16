@@ -1,5 +1,6 @@
 # Wireless-Large-Model
 Papers related to **wireless large AI models (LAMs)** and wireless foundation models. 
+
 Note: This paper list focuses more on **technical implementations and methodologies**. As a result, magazine or high-level overview articles are not prioritized in the initial phase of the list.
 
 📌 **This list is continuously updated.**
@@ -20,10 +21,17 @@ Feel free to reach out via email: *guangjin.pan@chalmers.se*
 
 ### 1. 📶 LAM–Based Wireless Channel foundation model 
 
-| Title | Authors | Venue | Year | Link |
+| Title | Authors | Venue | Year | Link | code |
 |-------|---------|-------|------|------|
-| Large Wireless Model (LWM): A Foundation Model for Wireless Channels | Sadjad Alikhani et al. | arXiv | 2024 | [PDF](https://arxiv.org/abs/2411.08872) |
-| WiFo: Wireless Foundation Model for Channel Prediction | Boxun Liu et al. | arXiv | 2024 | [PDF](https://arxiv.org/abs/2412.08908) |
+| Large Wireless Localization Model (LWLM): A Foundation Model for Positioning in 6G Networks | Guangjin Pan | arXiv | 2025 | [PDF](https://arxiv.org/abs/2505.10134) | [code](https://github.com/guangjinpan/LWLM)|
+| SpectrumFM: A Foundation Model for Intelligent Spectrum Management | Fuhui Zhou| arXiv | 2025 | [PDF](https://arxiv.org/abs/2505.06256) | [code](https://github.com/ChunyuLiu188/SpectrumFM)|
+| Large Wireless Model (LWM): A Foundation Model for Wireless Channels | Sadjad Alikhani et al. | arXiv | 2024 | [PDF](https://arxiv.org/abs/2411.08872) | [code](https://huggingface.co/wi-lab)|
+| WiFo: Wireless Foundation Model for Channel Prediction | Boxun Liu et al. | arXiv | 2024 | [PDF](https://arxiv.org/abs/2412.08908) | [code](https://github.com/liuboxun/WiFo)|
+| WirelessGPT: A Generative Pre-trained Multi-task Learning Framework for Wireless Communication| Tingting Yang et al. | arXiv | 2025 | [PDF](https://arxiv.org/abs/2502.06877) | - |
+| 6G WavesFM: A Foundation Model for Sensing, Communication, and Localization | Ahmed Aboulfotouh et al. | arXiv | 2025 | [PDF](https://arxiv.org/abs/2504.14100) | - | 
+| Building 6G Radio Foundation Models with Transformer Architectures | Ahmed Aboulfotouh| arXiv | 2024 | [PDF](https://arxiv.org/abs/2411.09996) | - |
+| Self-Supervised Radio Pre-training: Toward Foundational Models for Spectrogram Learning | Ahmed Aboulfotouh| arXiv | 2024 | [PDF](https://arxiv.org/abs/2411.09849) | - | 
+|  | Ahmed Aboulfotouh| arXiv | 2024 | [PDF](https://arxiv.org/abs/2411.09849) | - |
 
 ---
 
