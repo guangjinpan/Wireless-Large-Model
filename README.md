@@ -21,17 +21,20 @@ Feel free to reach out via email: *guangjin.pan@chalmers.se*
 
 ### 1. 📶 LAM–Based Wireless Channel foundation model 
 
-| Title | Authors | Venue | Year | Link | code |
+| Title | Authors | Venue | Year | Link | Code |
 |-------|---------|-------|------|------|------|
-| Large Wireless Localization Model (LWLM): A Foundation Model for Positioning in 6G Networks | Guangjin Pan | arXiv | 2025 | [PDF](https://arxiv.org/abs/2505.10134) | [code](https://github.com/guangjinpan/LWLM)|
+| Large Wireless Localization Model (LWLM): A Foundation Model for Positioning in 6G Networks | Guangjin Pan et al. | arXiv | 2025 | [PDF](https://arxiv.org/abs/2505.10134) | [code](https://github.com/guangjinpan/LWLM)|
 | SpectrumFM: A Foundation Model for Intelligent Spectrum Management | Fuhui Zhou| arXiv | 2025 | [PDF](https://arxiv.org/abs/2505.06256) | [code](https://github.com/ChunyuLiu188/SpectrumFM)|
 | Large Wireless Model (LWM): A Foundation Model for Wireless Channels | Sadjad Alikhani et al. | arXiv | 2024 | [PDF](https://arxiv.org/abs/2411.08872) | [code](https://huggingface.co/wi-lab)|
 | WiFo: Wireless Foundation Model for Channel Prediction | Boxun Liu et al. | arXiv | 2024 | [PDF](https://arxiv.org/abs/2412.08908) | [code](https://github.com/liuboxun/WiFo)|
+| LLM4CP: Adapting Large Language Models for Channel Prediction | Boxun Liu et al.| IEEE JCIN | 2024 | [PDF](https://ieeexplore.ieee.org/document/10582829) | [code](https://github.com/liuboxun/LLM4CP) |
+| Self-Supervised and Invariant Wireless Channel Representations | Artan Salihu et al. | IEEE TWC | 2024 | [PDF](https://ieeexplore.ieee.org/document/10382964) | [code](https://github.com/ars205/wireless_ssl)|
 | WirelessGPT: A Generative Pre-trained Multi-task Learning Framework for Wireless Communication| Tingting Yang et al. | arXiv | 2025 | [PDF](https://arxiv.org/abs/2502.06877) | - |
+| LLM4WM: Adapting LLM for Wireless Multi-Tasking| Xuanyu Liu et al. | arXiv | 2025 |  [PDF](https://arxiv.org/abs/2501.12983)| - |
 | 6G WavesFM: A Foundation Model for Sensing, Communication, and Localization | Ahmed Aboulfotouh et al. | arXiv | 2025 | [PDF](https://arxiv.org/abs/2504.14100) | - | 
-| Building 6G Radio Foundation Models with Transformer Architectures | Ahmed Aboulfotouh| arXiv | 2024 | [PDF](https://arxiv.org/abs/2411.09996) | - |
-| Self-Supervised Radio Pre-training: Toward Foundational Models for Spectrogram Learning | Ahmed Aboulfotouh| arXiv | 2024 | [PDF](https://arxiv.org/abs/2411.09849) | - | 
-|  | Ahmed Aboulfotouh| arXiv | 2024 | [PDF](https://arxiv.org/abs/2411.09849) | - |
+| Building 6G Radio Foundation Models with Transformer Architectures | Ahmed Aboulfotouh  et al.| arXiv | 2024 | [PDF](https://arxiv.org/abs/2411.09996) | - |
+| Self-Supervised Radio Pre-training: Toward Foundational Models for Spectrogram Learning | Ahmed Aboulfotouh et al.| arXiv | 2024 | [PDF](https://arxiv.org/abs/2411.09849) | - |
+
 
 ---
 
