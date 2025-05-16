@@ -1,22 +1,24 @@
 # Wireless-Large-Model
-Papers related to **wireless large AI models (LAMs)** and wireless foundation models.
+Papers related to **wireless large AI models (LAMs)** and wireless foundation models. Note: This paper list focuses more on **technical implementations and methodologies**.  
+As a result, magazine or high-level overview articles are not prioritized in the initial phase of the list.
 
 📌 **This list is continuously updated.**
 
 Stay tuned and feel free to ⭐ star this repo to follow the latest progress.
 
 🤝 **Open to collaboration and discussion!**
+
 I'm open to discussions and potential collaborations on LAM research, especially in the areas of communication, sensing, and semantic communication.  
 Feel free to reach out via email: *guangjin.pan@chalmers.se*
 
-# 📡 Wireless Large AI Models Paper List
 
+
+# 📡 Wireless Large AI Models Paper List
 
 
 ## 📂 Categories
 
 ### 1. 📶 LAM–Based Wireless Channel foundation model 
-研究使用大模型（如 Transformer、Diffusion 等）进行无线信道建模、信道估计、环境建模等。
 
 | Title | Authors | Venue | Year | Link |
 |-------|---------|-------|------|------|
